@@ -1,0 +1,6 @@
+{
+  "name": "TrendWear Puja Control Tower",
+  "description": "Season planning, demand forecasting, supplier allocation, and risk intelligence control tower for Durga Puja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

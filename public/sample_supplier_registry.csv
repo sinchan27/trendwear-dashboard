@@ -1,0 +1,6 @@
+id,name,region,cost,capacity,leadTime,moq,otd,quality,riskScore,fabricType
+1,Bishnupur Handloom Cluster,West Bengal,620,3500,5,800,91,96,15,Handloom Cotton (Tant)
+2,Surat Silk & Synthetics Mills,Gujarat,480,9000,3,2000,79,88,48,Silk & Synthetic Blends
+3,Varanasi Banarasi Weaves,Uttar Pradesh,1450,1800,6,300,96,99,10,Pure Silk (Banarasi)
+4,Tiruppur Knit Exports,Tamil Nadu,310,12000,4,3000,85,90,30,Cotton Knit
+5,Ludhiana Textile Works,Punjab,390,6000,5,1500,88,92,26,Cotton-Wool Blend

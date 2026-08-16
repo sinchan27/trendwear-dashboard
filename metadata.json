@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS: 1 stop",
+  "description": "Season planning, demand forecasting, supplier allocation, and risk intelligence control tower.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
